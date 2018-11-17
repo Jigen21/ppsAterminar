@@ -1,0 +1,50 @@
+prohibidos alerts de ionic
+
+axel: 
+
+encuesta emopleado, arreglar acentos, simbolos de interrogaciones, opciones seteadas por defecto
+
+terminar mapa de ruta,cuando escaneo qr se tiene que mostrar el pedido terminado cuando ya llego a la mesa y mostrar
+que esta terminado
+
+arreglar terminar pedido como mozo
+
+arreglar toast,que vayan al medio duren mas y sonido
+
+mostrar un mensaje diciendo que no hay pedidos si como cocinero y bartender esta vacio
+
+Facu:
+
+arreglar tomar pedido,tiene que mostrar la totalidad del precio de productos
+
+sacar el registro de anonimo,arreglar logica para relacionar
+
+poner vista estadistica
+
+
+fer:
+
+arreglar bug de cuenta,cuando paga queda comiendo
+
+mostrar boton pedido,hacer un pedido siempre y boton de estado del pedido siempre
+
+supervisor y dueño tienen que visualizar resultados de la encuesta de todos
+
+terminar anagrama
+
+mostrar las reservas siendo cliente,y mandarlo a principal cuando la realiza
+
+añadir cliente 2
+
+anonimo no se registre
+
+
+
+
+
+
+terminar lo de los juegos
+
+solucionar flechitas para volver atras
+
+mapas,delivery
